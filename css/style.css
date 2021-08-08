@@ -48,3 +48,7 @@ ul {
 h2 {
 	color: #FDB813;
 }
+
+html {
+	scroll-behavior: smooth;
+}
