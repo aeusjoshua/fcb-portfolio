@@ -22,7 +22,7 @@ ul {
 }
 
 #landing, #gallery {
-	height: 80vh;
+	/*height: 80vh;*/
 	/*Center the elements vertically*/
 	display: flex;
 	flex-direction: column;
